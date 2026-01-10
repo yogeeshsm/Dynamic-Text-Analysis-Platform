@@ -1,0 +1,10 @@
+PREPROCESSING SUMMARY REPORT
+============================================================
+
+Total Tweets Original: 14640
+Total Tweets Cleaned: 14610
+Tweets Removed: 30
+Avg Words Original: 17.680013689253936
+Avg Words Cleaned: 8.490896646132786
+Total Words Removed: 134253
+Reduction Percentage: 51.97460366620855

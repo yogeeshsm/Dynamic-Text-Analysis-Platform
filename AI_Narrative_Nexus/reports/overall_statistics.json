@@ -1,0 +1,182 @@
+{
+  "total_records": 14610,
+  "sentiment_counts": {
+    "negative": 8275,
+    "neutral": 3837,
+    "positive": 2498
+  },
+  "sentiment_percentages": {
+    "negative": 56.64,
+    "neutral": 26.26,
+    "positive": 17.1
+  },
+  "avg_text_length": 56.9,
+  "avg_word_count": 8.5,
+  "total_unique_keywords": 12189,
+  "top_keywords": [
+    {
+      "keyword": "flight",
+      "count": 3895
+    },
+    {
+      "keyword": "get",
+      "count": 1336
+    },
+    {
+      "keyword": "thanks",
+      "count": 1072
+    },
+    {
+      "keyword": "cancelled",
+      "count": 1056
+    },
+    {
+      "keyword": "service",
+      "count": 956
+    },
+    {
+      "keyword": "help",
+      "count": 855
+    },
+    {
+      "keyword": "time",
+      "count": 770
+    },
+    {
+      "keyword": "customer",
+      "count": 746
+    },
+    {
+      "keyword": "hours",
+      "count": 678
+    },
+    {
+      "keyword": "flights",
+      "count": 646
+    },
+    {
+      "keyword": "amp",
+      "count": 641
+    },
+    {
+      "keyword": "hold",
+      "count": 638
+    },
+    {
+      "keyword": "plane",
+      "count": 620
+    },
+    {
+      "keyword": "thank",
+      "count": 602
+    },
+    {
+      "keyword": "cant",
+      "count": 579
+    },
+    {
+      "keyword": "still",
+      "count": 571
+    },
+    {
+      "keyword": "please",
+      "count": 560
+    },
+    {
+      "keyword": "one",
+      "count": 558
+    },
+    {
+      "keyword": "need",
+      "count": 553
+    },
+    {
+      "keyword": "would",
+      "count": 548
+    },
+    {
+      "keyword": "delayed",
+      "count": 529
+    },
+    {
+      "keyword": "back",
+      "count": 518
+    },
+    {
+      "keyword": "gate",
+      "count": 515
+    },
+    {
+      "keyword": "flightled",
+      "count": 502
+    },
+    {
+      "keyword": "call",
+      "count": 500
+    },
+    {
+      "keyword": "dont",
+      "count": 498
+    },
+    {
+      "keyword": "bag",
+      "count": 484
+    },
+    {
+      "keyword": "got",
+      "count": 478
+    },
+    {
+      "keyword": "hour",
+      "count": 473
+    },
+    {
+      "keyword": "like",
+      "count": 427
+    }
+  ],
+  "text_length_by_sentiment": {
+    "mean": {
+      "negative": 65.75492447129909,
+      "neutral": 43.42715663278603,
+      "positive": 48.056845476381106
+    },
+    "median": {
+      "negative": 68.0,
+      "neutral": 41.0,
+      "positive": 48.0
+    },
+    "std": {
+      "negative": 21.883845769969284,
+      "neutral": 25.261091733081322,
+      "positive": 26.446778436788165
+    }
+  },
+  "word_count_by_sentiment": {
+    "mean": {
+      "negative": 9.818851963746223,
+      "neutral": 6.43966640604639,
+      "positive": 7.242594075260208
+    },
+    "median": {
+      "negative": 10.0,
+      "neutral": 6.0,
+      "positive": 7.0
+    },
+    "std": {
+      "negative": 3.17569211932585,
+      "neutral": 3.5734977291265944,
+      "positive": 3.8124318695904957
+    }
+  },
+  "total_airlines": 6,
+  "most_mentioned_airline": "United",
+  "airline_mentions": {
+    "United": 3818,
+    "US Airways": 2907,
+    "American": 2753,
+    "Southwest": 2412,
+    "Delta": 2217,
+    "Virgin America": 503
+  }
+}

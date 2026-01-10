@@ -1,0 +1,3 @@
+@echo off
+echo Starting AI Narrative Nexus Backend...
+python app.py
